@@ -3,3 +3,4 @@ sci-libs/libcmatrix
 sci-chemistry/gsim
 media-gfx/sam2p
 media-libs/mesa
+dev-scheme/guile
