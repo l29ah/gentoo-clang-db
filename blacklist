@@ -8,3 +8,4 @@ net-wireless/aircrack-ng
 sci-libs/fftw
 dev-libs/elfutils
 dev-util/systemtap
+dev-java/icedtea
