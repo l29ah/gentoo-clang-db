@@ -9,3 +9,4 @@ sci-libs/fftw
 dev-libs/elfutils
 dev-util/systemtap
 dev-java/icedtea
+sys-boot/lilo
