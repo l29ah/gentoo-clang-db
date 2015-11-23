@@ -6,3 +6,4 @@ media-libs/mesa
 dev-scheme/guile
 net-wireless/aircrack-ng
 sci-libs/fftw
+dev-libs/elfutils
