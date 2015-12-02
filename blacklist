@@ -12,3 +12,4 @@ dev-java/icedtea
 sys-boot/lilo
 net-voip/ring-daemon
 media-video/ffmpeg
+media-sound/alsa-tools
