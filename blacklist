@@ -13,3 +13,4 @@ sys-boot/lilo
 net-voip/ring-daemon
 media-video/ffmpeg
 media-sound/alsa-tools
+x11-drivers/xf86-video-intel
