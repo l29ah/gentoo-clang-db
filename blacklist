@@ -17,3 +17,4 @@ x11-drivers/xf86-video-intel
 x11-libs/agg
 app-emulation/qemu
 x11-libs/cairo
+dev-vcs/subversion
