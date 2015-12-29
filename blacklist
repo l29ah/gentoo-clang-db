@@ -26,3 +26,4 @@ dev-vcs/subversion
 
 # /usr/lib/gcc/x86_64-pc-linux-gnu/4.9.3/../../../../x86_64-pc-linux-gnu/bin/ld: utils/ghc-pwd/dist-boot/Main.o: relocation R_X86_64_32S against `.text' can not be used when making a shared object; recompile with -fPIC
 dev-lang/ghc
+sys-fs/mtools
