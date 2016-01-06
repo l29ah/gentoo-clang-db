@@ -31,3 +31,6 @@ sys-fs/mtools
 
 # libtool:   error: specify a tag with '--tag'
 net-voip/linphone
+
+# *** These critical programs are missing or too old: compiler
+sys-libs/glibc
