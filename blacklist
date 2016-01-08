@@ -34,3 +34,6 @@ net-voip/linphone
 
 # *** These critical programs are missing or too old: compiler
 sys-libs/glibc
+
+# "Please switch to an openmp compatible compiler"
+media-libs/opencv[openmp]
