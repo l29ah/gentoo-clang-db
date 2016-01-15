@@ -43,3 +43,6 @@ sci-electronics/linuxcnc
 
 # /tmp/portage/media-libs/aalib-1.4_rc5-r6/work/aalib-1.4.0/src/aalinuxkbd.c:203:2: error: non-void function 'rawmode_init' should return a value [-Wreturn-type]
 media-libs/aalib
+
+# rc-selinux.c:26:10: fatal error: 'selinux/selinux.h' file not found
+sys-apps/openrc
