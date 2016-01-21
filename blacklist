@@ -46,3 +46,5 @@ media-libs/aalib
 
 # rc-selinux.c:26:10: fatal error: 'selinux/selinux.h' file not found
 sys-apps/openrc
+
+sys-apps/paludis
