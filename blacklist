@@ -48,3 +48,5 @@ media-libs/aalib
 sys-apps/openrc
 
 sys-apps/paludis
+
+net-misc/tigervnc
