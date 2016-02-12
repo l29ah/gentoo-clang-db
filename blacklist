@@ -1,7 +1,7 @@
 # Format:
 # - comment begin with '#'
 # - empty lines allowed
-# - one atom per line (without version, just some-category/package)
+# - one DEPEND atom per line
 
 net-wireless/crda
 sci-libs/libcmatrix
