@@ -37,6 +37,7 @@ sys-libs/glibc
 
 # "Please switch to an openmp compatible compiler"
 media-libs/opencv[openmp]
+media-gfx/blender[openmp]
 
 # Weird C++ errors, i'm not gonna fix that
 sci-electronics/linuxcnc
