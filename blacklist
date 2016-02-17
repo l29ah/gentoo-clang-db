@@ -48,6 +48,3 @@ media-libs/aalib
 sys-apps/paludis
 
 net-misc/tigervnc
-
-# sys-libs/glibc-2.22-r2
-sys-libs/glibc
