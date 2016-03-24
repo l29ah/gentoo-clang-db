@@ -48,3 +48,8 @@ media-libs/aalib
 sys-apps/paludis
 
 net-misc/tigervnc
+
+# /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/5.3.0/include/g++-v5/bits/atomic_base.h:312:16: error: cannot compile this atomic library call yet
+#       { return __atomic_add_fetch(&_M_i, __i, memory_order_seq_cst); }
+#                      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sys-devel/llvm
