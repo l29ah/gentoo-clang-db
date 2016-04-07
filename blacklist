@@ -53,3 +53,7 @@ net-misc/tigervnc
 #       { return __atomic_add_fetch(&_M_i, __i, memory_order_seq_cst); }
 #                      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 sys-devel/llvm
+
+# /var/tmp/paludis/sys-apps-kexec-tools-2.0.12/work/kexec-tools-2.0.12/purgatory/arch/i386/entry32-16.S:23:2: error: unknown directive
+#  .arch i386
+sys-apps/kexec-tools
