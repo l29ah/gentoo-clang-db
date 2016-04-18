@@ -57,3 +57,6 @@ sys-devel/llvm
 # /var/tmp/paludis/sys-apps-kexec-tools-2.0.12/work/kexec-tools-2.0.12/purgatory/arch/i386/entry32-16.S:23:2: error: unknown directive
 #  .arch i386
 sys-apps/kexec-tools
+
+# ./jsproxy.h:52:7: error: visibility does not match previous declaration
+dev-lang/spidermonkey
