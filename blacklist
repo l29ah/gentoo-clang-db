@@ -60,3 +60,6 @@ sys-apps/kexec-tools
 
 # ./jsproxy.h:52:7: error: visibility does not match previous declaration
 dev-lang/spidermonkey
+
+# /usr/include/eigen3/Eigen/src/Core/util/Memory.h:134:5: error: call to 'memmove' is ambiguous
+media-gfx/freecad
