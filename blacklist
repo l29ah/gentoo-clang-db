@@ -63,3 +63,6 @@ dev-lang/spidermonkey
 
 # /usr/include/eigen3/Eigen/src/Core/util/Memory.h:134:5: error: call to 'memmove' is ambiguous
 media-gfx/freecad
+
+# https://github.com/ariya/phantomjs/issues/13607
+www-client/phantomjs
