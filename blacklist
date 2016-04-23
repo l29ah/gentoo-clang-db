@@ -66,3 +66,6 @@ media-gfx/freecad
 
 # https://github.com/ariya/phantomjs/issues/13607
 www-client/phantomjs
+
+# libgcrypt-1.5.4/cipher/rijndael.c:858:39: error: ambiguous instructions require an explicit suffix (could be 'cmpb', 'cmpw', 'cmpl', or 'cmpq')
+dev-libs/libgcrypt
