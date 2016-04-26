@@ -69,3 +69,7 @@ www-client/phantomjs
 
 # libgcrypt-1.5.4/cipher/rijndael.c:858:39: error: ambiguous instructions require an explicit suffix (could be 'cmpb', 'cmpw', 'cmpl', or 'cmpq')
 dev-libs/libgcrypt
+
+# x86_64-pc-linux-gnu-gcc: error: unrecognized command line option ‘-fheinous-gnu-extensions’
+# as $CC is ignored
+app-laptop/tp_smapi
