@@ -73,3 +73,6 @@ dev-libs/libgcrypt
 # x86_64-pc-linux-gnu-gcc: error: unrecognized command line option ‘-fheinous-gnu-extensions’
 # as $CC is ignored
 app-laptop/tp_smapi
+
+# c_level.cpp:214:21: error: non-constant-expression cannot be narrowed from type 'uintptr_t' (aka 'unsigned long') to 'DWORD' (aka 'unsigned int') in initializer list [-Wc++11-narrowing]
+games-engines/odamex
