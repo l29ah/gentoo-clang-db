@@ -77,3 +77,9 @@ app-laptop/tp_smapi
 
 # c_level.cpp:214:21: error: non-constant-expression cannot be narrowed from type 'uintptr_t' (aka 'unsigned long') to 'DWORD' (aka 'unsigned int') in initializer list [-Wc++11-narrowing]
 games-engines/odamex
+
+# x86_64-pc-linux-gnu-clang-3.8: error: unknown argument: '-mno-ieee-fp'
+media-libs/libvorbis
+
+# ./af_protos.h:24:18: error: use of undeclared identifier 'IPPROTO_MPLS'
+sys-libs/libapparmor
