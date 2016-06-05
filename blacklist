@@ -83,3 +83,6 @@ media-libs/libvorbis
 
 # ./af_protos.h:24:18: error: use of undeclared identifier 'IPPROTO_MPLS'
 sys-libs/libapparmor
+
+# x86_64-pc-linux-gnu-clang-3.8: error: unknown argument: '-fthread-jumps'
+games-strategy/ufo-ai
