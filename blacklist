@@ -86,3 +86,9 @@ sys-libs/libapparmor
 
 # x86_64-pc-linux-gnu-clang-3.8: error: unknown argument: '-fthread-jumps'
 games-strategy/ufo-ai
+
+# ../include/stdarg.h:9:15: fatal error: 'stdarg.h' file not found
+sys-boot/syslinux
+
+# gcm.cpp:607:3: error: invalid operand for instruction ASL(0)
+dev-libs/crypto++
