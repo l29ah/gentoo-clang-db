@@ -92,3 +92,6 @@ sys-boot/syslinux
 
 # gcm.cpp:607:3: error: invalid operand for instruction ASL(0)
 dev-libs/crypto++
+
+# src/scale_mmx64.c:424:27: error: invalid instruction mnemonic 'movsxl'
+dev-python/pygame
