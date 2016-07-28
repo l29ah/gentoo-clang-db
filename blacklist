@@ -95,3 +95,6 @@ dev-libs/crypto++
 
 # src/scale_mmx64.c:424:27: error: invalid instruction mnemonic 'movsxl'
 dev-python/pygame
+
+# /usr/include/python2.7/modsupport.h:27:65: error: 'format' attribute argument not supported: _PyArg_ParseTuple_SizeT [-Werror,-Wignored-attributes]
+x11-wm/xpra
