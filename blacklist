@@ -105,3 +105,6 @@ x11-misc/virtualgl
 # lapack-3.6.0/CBLAS/include/cblas_f77.h:196:6: error: 
 #       function cannot return function type 'void (char *, void *)'
 sci-libs/cblas-reference
+
+# https://bugs.gentoo.org/show_bug.cgi?id=564456
+dev-libs/girara
