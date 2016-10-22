@@ -108,3 +108,6 @@ sci-libs/cblas-reference
 
 # https://bugs.gentoo.org/show_bug.cgi?id=564456
 dev-libs/girara
+
+# x86_64-pc-linux-gnu-clang-3.8: error: unknown argument: '-mpreferred-stack-boundary=2'
+sys-firmware/ipxe
