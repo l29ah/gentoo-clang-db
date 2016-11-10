@@ -111,3 +111,6 @@ dev-libs/girara
 
 # x86_64-pc-linux-gnu-clang-3.8: error: unknown argument: '-mpreferred-stack-boundary=2'
 sys-firmware/ipxe
+
+# sys-fs/squashfs-tools-4.2_pre20101231:0::dev-zero: mksquashfs.c:(.text+0x75ec): undefined reference to `add_dir_entry'
+sys-fs/squashfs-tools
