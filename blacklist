@@ -114,3 +114,6 @@ sys-firmware/ipxe
 
 # sys-fs/squashfs-tools-4.2_pre20101231:0::dev-zero: mksquashfs.c:(.text+0x75ec): undefined reference to `add_dir_entry'
 sys-fs/squashfs-tools
+
+# /var/tmp/paludis/kde-apps-marble-9999/work/marble-9999/src/3rdparty/sgp4/sgp4ext.cpp:210:9: error: 'asinh' is missing exception specification 'throw()'
+kde-apps/marble
