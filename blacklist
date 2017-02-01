@@ -120,3 +120,6 @@ kde-apps/marble
 
 # x86_64-pc-linux-gnu-clang-3.8: error: unknown argument: '-fext-numeric-literals'
 sci-electronics/pulseview
+
+# mpv requires GCC for SSE4.1 intrinsics.
+media-video/mpv
