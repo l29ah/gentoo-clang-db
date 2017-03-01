@@ -123,3 +123,6 @@ sci-electronics/pulseview
 
 # mpv requires GCC for SSE4.1 intrinsics.
 media-video/mpv
+
+# OpenSceneGraph-3.5.1/include/osgViewer/View:130:91: error: member reference base type 'const osg::ref_ptr<T> *' is not a structure or union
+dev-games/openscenegraph
