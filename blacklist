@@ -97,7 +97,7 @@ dev-libs/crypto++
 dev-python/pygame
 
 # /usr/include/python2.7/modsupport.h:27:65: error: 'format' attribute argument not supported: _PyArg_ParseTuple_SizeT [-Werror,-Wignored-attributes]
-x11-wm/xpra
+#x11-wm/xpra
 
 # /var/tmp/paludis/x11-misc-virtualgl-2.5/work/VirtualGL-2.5/server/gefaker.c:33:30: error: use of undeclared identifier 'RTLD_NEXT'
 x11-misc/virtualgl
@@ -126,3 +126,15 @@ media-video/mpv
 
 # OpenSceneGraph-3.5.1/include/osgViewer/View:130:91: error: member reference base type 'const osg::ref_ptr<T> *' is not a structure or union
 dev-games/openscenegraph
+
+# math/SGMath.hxx:23:10: fatal error: 'iosfwd' file not found
+dev-games/simgear
+
+# utils/GPSsmooth/GPSsmooth.cxx:7:10: fatal error: 'iostream' file not found
+games-simulation/flightgear
+
+# clang-3.9: error: unknown argument: '-fno-visibility-inlines-hidden'
+net-libs/opal
+
+# symtab.c:(.text+0x27): undefined reference to `__muloti4'
+sys-devel/m4
