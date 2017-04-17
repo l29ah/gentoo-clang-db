@@ -138,3 +138,6 @@ net-libs/opal
 
 # symtab.c:(.text+0x27): undefined reference to `__muloti4'
 sys-devel/m4
+
+# /var/tmp/paludis/sys-devel-clang-4.0.0-r2/work/x/y/cfe-4.0.0.src/lib/CodeGen/BackendUtil.cpp:(.text._ZN4llvm6detail17AnalysisPassModelINS_8FunctionENS_9AAManagerENS_17PreservedAnalysesENS_15AnalysisManagerIS2_JEE11InvalidatorEJEE3runERS2_RS6_[_ZN4llvm6detail17AnalysisPassModelINS_8FunctionENS_9AAManagerENS_17PreservedAnalysesENS_15AnalysisManagerIS2_JEE11InvalidatorEJEE3runERS2_RS6_]+0x31): undefined reference to `llvm::AnalysisManager<llvm::Function>::getResultImpl(llvm::AnalysisKey*, llvm::Function&)'
+sys-devel/clang
