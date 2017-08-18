@@ -144,3 +144,6 @@ sys-devel/clang
 
 # /var/tmp/paludis/app-office-ledger-9999/work/ledger-9999/src/csv.cc:(.text._ZN5boost16re_detail_10630016re_is_set_memberIN9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEcNS_12regex_traitsIcNS_16cpp_regex_traitsIcEEEEjEET_SH_SH_PKNS0_11re_set_longIT2_EERKNS0_10regex_dataIT0_T1_EEb[_ZN5boost16re_detail_10630016re_is_set_memberIN9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEcNS_12regex_traitsIcNS_16cpp_regex_traitsIcEEEEjEET_SH_SH_PKNS0_11re_set_longIT2_EERKNS0_10regex_dataIT0_T1_EEb]+0x217): undefined reference to `boost::re_detail_106300::cpp_regex_traits_implementation<char>::transform[abi:cxx11](char const*, char const*) const'
 app-office/ledger
+
+# rngd_linux.c:124:17: error: fields must have a constant size: 'variable length array in structure' extension will never be supported
+sys-apps/rng-tools
